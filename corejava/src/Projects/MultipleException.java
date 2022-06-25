@@ -1,4 +1,6 @@
 package Projects;
+
+
 public class MultipleException {
 
 	public static void main(String[] args) {

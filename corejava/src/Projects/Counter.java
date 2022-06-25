@@ -1,5 +1,4 @@
 package Projects;
-
 public class Counter {
 	static int count = 0;
 	Counter()

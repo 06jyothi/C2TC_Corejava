@@ -1,4 +1,5 @@
 package Projects;
+
 import java.util.Scanner;
 
 public class Commission {
@@ -49,4 +50,5 @@ public class Commission {
 		com.compute();
 
 	}
+
 }

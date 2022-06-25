@@ -16,9 +16,9 @@ class Example
      	}
 	   
     Example(int i, String name)
-{
+   {
       System.out.println("constructor with int and String param");
-}
+   }
 
 public static void main(String args[]){
       //This will invoke default constructor

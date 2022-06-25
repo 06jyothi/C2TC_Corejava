@@ -1,5 +1,4 @@
 package Projects;
-
 class Animal {
 }
 
@@ -31,6 +30,6 @@ class Main {
 
     // checks if the object of Dog
     // is also an instance of Animal
-    System.out.println(d1 instanceof Animal);  // returns true
+    System.out.println(d1 instance of Animal);  // returns true
   }
 }*/
